@@ -1,4 +1,4 @@
-# Reto No. 2
+# Reto No. 2 : "Casi que no" 
 
 Pruebas de que las herramientas que se van a usar en el curso están funcionando correctamente.
 
