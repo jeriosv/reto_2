@@ -19,7 +19,7 @@ Uso como sistema operativo macOSX, por lo que es un poco diferente el proceso a 
   ![Captura de Pantalla 2023-08-25 a la(s) 9 03 13 p m](https://github.com/jeriosv/reto_2/assets/142249529/6c32dc15-8fbb-4235-a9b5-5b2a9ef8a151)
 
    
-4. En VSCode.
+3. En VSCode.
 
    ![Captura de Pantalla 2023-08-25 a la(s) 9 48 13 p m](https://github.com/jeriosv/reto_2/assets/142249529/aa4f0c27-c8c2-4124-9a8e-269d308ceece)
 
